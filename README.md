@@ -38,4 +38,4 @@ Users can ask the chatbot for the status of their order.The chatbot will provide
 
 ## Contribution
 
-We welcome contributions to improve the Food Chatbot. Please fork the repository and create a pull request with your changes.
+Contributions are welcome to improve the Food Chatbot. Please fork the repository and create a pull request with your changes.
