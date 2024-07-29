@@ -1,6 +1,6 @@
 # Food Chatbot
 
-Welcome to the Food Chatbot! This chatbot allows users to place orders and track their orders seamlessly. The bot is built using [insert relevant technologies e.g., Dialogflow, FastAPI, Python].
+Welcome to the Food Chatbot! This chatbot allows users to place orders and track their orders seamlessly. The bot is built using Dialogflow, FastAPI, Python.
 
 ## Features
 
